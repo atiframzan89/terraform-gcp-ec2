@@ -1,0 +1,10 @@
+variable "vpc-id" {}
+variable "customer" {}
+variable "private-subnet" {}
+variable "public-subnet" {}
+variable "ssh-username" {}  
+variable "ssh-public-key" {}
+variable "region" {}
+variable "zone" {}
+variable "instance-size" {}
+variable "instance-disk" {}
